@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&text=THIS%20IS%20MY&animation=none&fontColor=00FFCC&fontSize=40" width="100%" alt="System Header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&text=ME%20=&animation=none&fontColor=00FFCC&fontSize=40" width="100%" alt="System Header" />
 
 # Stack
 
